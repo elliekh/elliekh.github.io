@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Ellie Hara"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # none for now
   location         : "Troy, NY"
   employer         : "Rensselaer Polytechnic Institute"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "@geochemicellie" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
