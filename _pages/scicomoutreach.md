@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Science Communication and Outreach"
-permalink: /talks/
+permalink: /scicomoutreach/
 author_profile: true
 ---
 
