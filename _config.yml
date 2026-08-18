@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr. Ellie K. Hara"
 title_separator          : "-"
 name                     : &name "Ellie Hara"
@@ -27,8 +27,8 @@ author:
   name             : "Dr. Ellie K. Hara"
   pronouns         : "she/her"  
   bio              : # none for now
-  location         : "Troy, NY"
-  employer         : "Rensselaer Polytechnic Institute"
+  location         : "Salt Lake City, Utah"
+  employer         : "University of Utah"
   uri              : # URL
   email            : # none
 
